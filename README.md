@@ -2,9 +2,12 @@
 
 - I'm currently studying for *Master of Science in Computer Science* at **Washington University in St. Louis**. And I got *Bachelor of Engineering in Software Engineering* at **University of Electronic Science and Technology of China**.
 
-- Here's my previous projects:
+- Here are my previous projects:
   - **Adventure of a Knight**
-  - **An artificial intelligence related to the classic game Pac-Man based on Python**
+  - **CSE450: Video Game Programming**  
+    
+  - **CSE412A: Introduction to AI**  
+    An artificial intelligence related to the classic game Pac-Man based on Python
   - **Body Temperature Detecting System**
   - **3D Scene Reconstruction of the Han Dynasty’s Brick Relief Tomb at Zhaojue Temple**
   - **FormerOcean**
