@@ -2,7 +2,7 @@
 
 - I'm currently studying for *Master of Science in Computer Science* at **Washington University in St. Louis**. And I got *Bachelor of Engineering in Software Engineering* at **University of Electronic Science and Technology of China**.
 
-- Here are my previous projects:
+- Here are my previous works:
   - **Adventure of a Knight**
   - **CSE450: Video Game Programming**  
     
@@ -11,7 +11,9 @@
   - **Body Temperature Detecting System**
   - **3D Scene Reconstruction of the Han Dynasty’s Brick Relief Tomb at Zhaojue Temple**
   - **FormerOcean 故海**  
-    
+    - This is a Virtual Reality game developed by Unreal Engine 4. In this game, player will act as a dophin, who leads the migration across the polluted sea to find a new home for survival.  
+    - Our team made this game when we participated in the competition, *The 12th Chinese Collegiate Computing Competition (4C2019) 2019年（第12届）中国大学生计算机设计大赛*. We won **National First Prize**.
+    - For the project, go <https://github.com/RPGup/FormerOcean>.
   - **Deprelove**  
     Participating 2019 CIGA Gamejam Chengdu, Our team made this story-telling game, subjected in depression.  
     For details, check <https://github.com/Junlin-LONG/DepreLove.git>.
