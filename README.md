@@ -13,7 +13,11 @@
   - **CSE412A: Introduction to AI**  
     - An artificial intelligence related to the classic game Pac-Man based on Python
   - **Body Temperature Detecting System**
-  - **3D Scene Reconstruction of the Han Dynasty’s Brick Relief Tomb at Zhaojue Temple**
+  - **3D Scene Reconstruction of the Han Dynasty’s Brick Relief Tomb at Zhaojue Temple 成都昭觉寺汉画像砖墓三维场景重建**  
+    - Our group reconstructed the 3D scene of the Han Dynasty’s Brick Relief Tomb at Zhaojue Temple, to restore the real scene in the tomb. We implemented interactive functions and descriptive texts for visitors.
+    - This project is developed by Unreal Engine 4.
+    - My responsibility was main internal scene construction of the tomb, special effects implementation (e.g. lighting, lens, outline), model importing & adjustment.
+    - For the porject, go <https://github.com/WaibiwaibiWaibibabo/AreUGoodMuseum>.
   - **FormerOcean 故海**  
     - This is a Virtual Reality game developed by Unreal Engine 4. In this game, player will act as a dophin, who leads the migration across the polluted sea to find a new home for survival.  
     - Our team made this game when we participated in the competition, *The 12th Chinese Collegiate Computing Competition (4C2019) 2019年（第12届）中国大学生计算机设计大赛*. We won **National First Prize**. 
