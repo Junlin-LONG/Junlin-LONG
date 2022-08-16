@@ -8,6 +8,10 @@
 
 - Here are my previous works:
   - **Adventure of a Knight**
+    - To play this game, go [Adventure of a Knight](https://junlin-long.itch.io/project-cse450a2-junlinyuxuan?secret=BKeauyyhDVhtRrjExs93uq22n8Q). 
+    - An action monster-killing game developed by Unity. The player will act as a knight, trapped in a dessert, surrounded by monsters. Trying to kill monsters and survive as long as possible.
+    - Leader of the group, my responsibilities were Enemy, UI, gameplay stastics, game control, player attack, core loop and scene design & implementation.
+    - For details, check <https://github.com/Junlin-LONG/AdventureOfAKnight>
   
   - **CSE450: Video Game Programming**
     - Course projcet of *CSE450: Video Game Programming (Spring 2022)* at **Washington University in St. Louis**. 
