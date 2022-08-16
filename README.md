@@ -9,7 +9,10 @@
 - Here are my previous works:
   - **Adventure of a Knight**
   
-  - **CSE450: Video Game Programming**  
+  - **CSE450: Video Game Programming**
+    - Course projcet of *CSE450: Video Game Programming (Spring 2022)* at **Washington University in St. Louis**. 
+    - This course teaches the core aspects of a video game developer's toolkit, consists of three main quests: Plantformer, Space Shooter and Adventure.
+    - For details, check <https://github.com/Junlin-LONG/cse450_sp22>
     
   - **CSE412A: Introduction to AI**
     - Course projcet of *CSE412A: Introduction to Artificial Intelligence (Spring 2022)* at **Washington University in St. Louis**.
