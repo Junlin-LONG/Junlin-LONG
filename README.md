@@ -11,8 +11,10 @@
   
   - **CSE450: Video Game Programming**  
     
-  - **CSE412A: Introduction to AI**  
-    - An artificial intelligence related to the classic game Pac-Man based on Python
+  - **CSE412A: Introduction to AI**
+    - Course projcet of *CSE412A: Introduction to Artificial Intelligence (Spring 2022)* at **Washington University in St. Louis**.
+    - An artificial intelligence related to the classic game Pac-Man based on Python.
+    - For details, check <https://github.com/Junlin-LONG/cse412a_sp22>.
   
   - **Body Temperature Detecting System**  
     - CSE521S Wireless Sensor Networks in-class project. 
