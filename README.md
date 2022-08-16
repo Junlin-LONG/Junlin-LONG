@@ -17,7 +17,7 @@
     - For details, check <https://github.com/Junlin-LONG/cse412a_sp22>.
   
   - **Body Temperature Detecting System**  
-    - CSE521S Wireless Sensor Networks in-class project. 
+    - Course project of *CSE521S Wireless Sensor Networks* at **Washington University in St. Louis**. 
     - Our group made this system to measure body temperature and manage the admissions of people who might cought fever when entering buildings.
     - My responsibilities were software part design & implementation, mainly database & functions design & implementation.
     - For details, check <https://github.com/Junlin-LONG/BTDS>.
