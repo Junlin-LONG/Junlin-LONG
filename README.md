@@ -2,12 +2,14 @@
 
 - Hi, I’m Junlin Long 龙俊霖 👋 
 
-- I'm currently studying for **Master of Science in Computer Science** at **Washington University in St. Louis**. And I got **Bachelor of Engineering in Software Engineering** at **University of Electronic Science and Technology of China**. 
-- 我正在**圣路易斯华盛顿大学**学习**计算机科学硕士**学位。本科毕业于**电子科技大学**，**软件工程**专业。
+- I'm currently studying for **Master of Science in Computer Science** at [**Washington University in St. Louis**](https://wustl.edu/). And I got **Bachelor of Engineering in Software Engineering** at [**University of Electronic Science and Technology of China**](https://en.uestc.edu.cn/). 
+- 我正在[**圣路易斯华盛顿大学**](https://wustl.edu/)学习**计算机科学硕士**学位。本科毕业于[**电子科技大学**](https://www.uestc.edu.cn/)，**软件工程**专业。
 
 ***
 
 - Here are my previous works:  
+
+
   Check out the [demo videos](https://www.bilibili.com/video/BV1Ft4y1j7Je/).
   - **Adventure of a Knight**
     - To play this game, go [Adventure of a Knight](https://junlin-long.itch.io/project-cse450a2-junlinyuxuan?secret=BKeauyyhDVhtRrjExs93uq22n8Q). 
