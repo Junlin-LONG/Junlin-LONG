@@ -8,6 +8,7 @@
 ***
 
 - Here are my previous works:
+  Check out the [demo videos](https://www.bilibili.com/video/BV1Ft4y1j7Je/).
   - **Adventure of a Knight**
     - To play this game, go [Adventure of a Knight](https://junlin-long.itch.io/project-cse450a2-junlinyuxuan?secret=BKeauyyhDVhtRrjExs93uq22n8Q). 
     - An action monster-killing game developed by Unity. The player will act as a knight, trapped in a dessert, surrounded by monsters. Trying to kill monsters and survive as long as possible.
