@@ -10,8 +10,8 @@
 - Here are my previous works:  
 
 
-  Check out the [demo videos](https://www.bilibili.com/video/BV1Ft4y1j7Je/).
-  - ** Switch Shooter **
+  Check out the [demo videos](https://www.bilibili.com/video/BV1Ft4y1j7Je/) for games.
+  - **Switch Shooter**
     - To play this game, go [Switch Shooter](https://junlin-long.itch.io/switch-shooter). 
     - An first-person shooting game developed by Unity. TYou got a gun can switch between two fire modes: Damage Mode and Absorb Mode. The enemies have 3 kinds of elements: water, fire and grass. The Absorb Mode will shoot a bullet to absorb the enemy's element (but won’t deal damage). The three elements, one can restrain another (deal greater damage).
     - Leader of the group, my responsibilities were core gameplay, game control, UI, enemies, core loop and scene design & implementation.
